@@ -1,0 +1,22 @@
+<application>
+  <component name="libraryTable">
+    <library name="backbone" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rx-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_rx_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_rx_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
