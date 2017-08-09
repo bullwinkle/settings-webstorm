@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="country-codes.js" type="JavaScript" />
+      <mapping ext="php" type="PHP" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".mailrc" type="PLAIN_TEXT" />
+      <mapping pattern=".login" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
+      <mapping pattern=".shrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="multibranch" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping ext="hmap" type="PLAIN_TEXT" />
+      <mapping ext="2166091486" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="htmlc" type="PLAIN_TEXT" />
+      <mapping ext="668300283" type="PLAIN_TEXT" />
+      <mapping ext="87255209" type="PLAIN_TEXT" />
+      <mapping pattern="catalog-list" type="Stylus" />
+    </extensionMap>
+  </component>
+</application>
