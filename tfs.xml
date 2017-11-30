@@ -1,0 +1,33 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <map>
+        <server uri="https://siemplify.visualstudio.com/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials type="Alternate">
+                  <password>df9adf92df9fdf99df98df9bdff9dfe3dfcfdfc7</password>
+                  <username>dmitriyg@siemplify.co</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+        <server uri="https://siemplify.visualstudio.com/SIEMplify/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials type="Alternate">
+                  <domain>Windows Live ID</domain>
+                  <password>df9adf92df9fdf99df98df9bdff9dfe3dfcfdfc7</password>
+                  <username>dmitriyg@siemplify.co</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+      </map>
+    </option>
+  </component>
+</application>
