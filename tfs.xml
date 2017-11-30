@@ -29,5 +29,9 @@
         </server>
       </map>
     </option>
+    <option name="useIdeaHttpProxy" value="false" />
+    <option name="supportTfsCheckinPolicies" value="false" />
+    <option name="supportStatefulCheckinPolicies" value="false" />
+    <option name="reportNotInstalledCheckinPolicies" value="false" />
   </component>
 </application>
