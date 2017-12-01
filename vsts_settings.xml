@@ -14,17 +14,9 @@
           <option name="type" value="VSO" />
           <option name="uri" value="https://siemplify.visualstudio.com" />
           <option name="serverUri" value="https://siemplify.visualstudio.com" />
-          <option name="userId" value="1b873073-f0be-4f64-8f8e-0a1ccf2c57e4" />
+          <option name="userId" value="" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;597b9caf-2859-4ce8-babe-cd3529285bdc&quot;,&quot;name&quot;:&quot;SIEMplify&quot;,&quot;url&quot;:&quot;https://siemplify.visualstudio.com/_apis/projectCollections/597b9caf-2859-4ce8-babe-cd3529285bdc&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;885b55e9-2b3d-4075-9349-b3ff271b58b5&quot;,&quot;name&quot;:&quot;SIEMplify&quot;,&quot;revision&quot;:137581096,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://siemplify.visualstudio.com/_apis/projects/885b55e9-2b3d-4075-9349-b3ff271b58b5&quot;}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="1b873073-f0be-4f64-8f8e-0a1ccf2c57e4" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
       </array>
     </option>
