@@ -20,4 +20,5 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
