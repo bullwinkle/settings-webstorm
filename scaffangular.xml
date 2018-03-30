@@ -1,0 +1,9 @@
+<application>
+  <component name="scaffangular">
+    <option name="moduleNameSuggestions">
+      <list>
+        <option value="gplans.dashboard" />
+      </list>
+    </option>
+  </component>
+</application>
