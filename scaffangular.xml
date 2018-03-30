@@ -3,6 +3,7 @@
     <option name="moduleNameSuggestions">
       <list>
         <option value="gplans.dashboard" />
+        <option value="gplans.helpers" />
       </list>
     </option>
   </component>
