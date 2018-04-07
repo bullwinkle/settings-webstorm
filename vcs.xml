@@ -6,6 +6,10 @@
           <option name="url" value="http://git.alol.team" />
           <option name="userName" value="d.galnykin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="bullwinkle" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
