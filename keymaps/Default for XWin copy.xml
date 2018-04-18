@@ -20,6 +20,7 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoFile" />
+  <action id="GotoSuperMethod" />
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
