@@ -6,10 +6,18 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CSS">
@@ -93,6 +101,7 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
