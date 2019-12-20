@@ -1,6 +1,11 @@
 <code_scheme name="Clausematch" version="173">
   <option name="LINE_SEPARATOR" value="&#13;&#10;" />
-  <JSCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -8,7 +13,7 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
